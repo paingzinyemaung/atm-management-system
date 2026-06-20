@@ -1,0 +1,10 @@
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\bin\Debug\ATM_MS.exe.config
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\bin\Debug\ATM_MS.exe
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\bin\Debug\ATM_MS.pdb
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.csprojResolveAssemblyReference.cache
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.Form1.resources
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.Properties.Resources.resources
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.csproj.GenerateResource.Cache
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.exe
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.pdb
+C:\Users\Paing Zin Ye Maung\OneDrive\Desktop\C# Projects\ATM_MS\obj\Debug\ATM_MS.Login.resources

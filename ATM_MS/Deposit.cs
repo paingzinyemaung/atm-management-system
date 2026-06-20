@@ -25,7 +25,7 @@ namespace ATM_MS
            // addTransaction();
         }
       
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\ATM_MS\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
         public void addTransaction()
         {
             String tType = "Deposit";

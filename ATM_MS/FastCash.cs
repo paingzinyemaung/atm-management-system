@@ -17,7 +17,7 @@ namespace ATM_MS
         {
             InitializeComponent();
         }
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\ATM_MS\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
         private void lblClose_Click(object sender, EventArgs e)
         {
             Application.Exit();

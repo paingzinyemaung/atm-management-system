@@ -345,6 +345,7 @@
             this.Name = "Account";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Account";
+            this.Load += new System.EventHandler(this.Account_Load);
             this.titlePanel.ResumeLayout(false);
             this.titlePanel.PerformLayout();
             this.ResumeLayout(false);

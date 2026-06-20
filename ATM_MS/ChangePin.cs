@@ -21,7 +21,7 @@ namespace ATM_MS
         {
 
         }
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\ATM_MS\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
         private void bnfTbLogin_Click(object sender, EventArgs e)
         {
             if (txtNewPin.Text == "" || txtConfirmPin.Text == "")

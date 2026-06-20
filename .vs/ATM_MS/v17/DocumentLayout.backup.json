@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\C# Projects\\ATM_MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|d:\\c# projects\\atm_ms\\atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|d:\\c# projects\\atm_ms\\atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|d:\\c# projects\\atm_ms\\atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,55 @@
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|d:\\c# projects\\atm_ms\\atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\changepin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\changepin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paing Zin Ye Maung\\AppData\\Local\\Temp\\ic5gbbw4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -47,26 +86,6 @@
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\fastcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\ministatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,25 +98,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.TransactionTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|D:\\C# Projects\\ATM_MS\\atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AD604E-DC8C-412E-A15A-059440B4F41E}|ATM_MS\\ATM_MS.csproj|solutionrelative:atm_ms\\changepin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.AccountTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,41 +107,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deposit.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Deposit.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\Deposit.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:10:28.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Home.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T14:30:55.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FastCash.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\FastCash.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\FastCash.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T10:42:57.279Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -151,19 +118,69 @@
               "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Login.cs [Design]",
               "RelativeToolTip": "ATM_MS\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T15:13:47.162Z",
+              "WhenOpened": "2026-06-20T17:56:19.43Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Withdraw.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Withdraw.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\Withdraw.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Deposit.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Deposit.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\Deposit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:08:43.255Z",
+              "WhenOpened": "2025-08-14T16:10:28.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Deposit.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
+              "RelativeToolTip": "ATM_MS\\Deposit.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:11:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastCash.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\FastCash.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\FastCash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:42:57.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastCash.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\FastCash.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
+              "RelativeToolTip": "ATM_MS\\FastCash.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:43:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Home.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:30:55.765Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -174,26 +191,137 @@
               "RelativeDocumentMoniker": "ATM_MS\\Login.cs",
               "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Login.cs",
               "RelativeToolTip": "ATM_MS\\Login.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T15:13:49.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "ChangePin.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\ChangePin.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
+              "RelativeToolTip": "ATM_MS\\ChangePin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T03:26:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.cs",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs",
               "RelativeDocumentMoniker": "ATM_MS\\Home.cs",
               "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Home.cs",
               "RelativeToolTip": "ATM_MS\\Home.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv00AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T05:05:59.941Z"
+              "WhenOpened": "2025-08-16T05:05:59.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "ChangePin.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\ChangePin.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\ChangePin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:52:33.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Balance.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
+              "RelativeToolTip": "ATM_MS\\Balance.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:59:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Balance.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Balance.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\Balance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:56:39.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Account.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
+              "RelativeToolTip": "ATM_MS\\Account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:38:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs [Design]",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Account.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs [Design]",
+              "RelativeToolTip": "ATM_MS\\Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:38:21.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangePin.Designer.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.Designer.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\ChangePin.Designer.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.Designer.cs",
+              "RelativeToolTip": "ATM_MS\\ChangePin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:48:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Withdraw.cs",
+              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs",
+              "RelativeDocumentMoniker": "ATM_MS\\Withdraw.cs",
+              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs",
+              "RelativeToolTip": "ATM_MS\\Withdraw.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:08:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ic5gbbw4..sql",
+              "DocumentMoniker": "C:\\Users\\Paing Zin Ye Maung\\AppData\\Local\\Temp\\ic5gbbw4..sql",
+              "ToolTip": "C:\\Users\\Paing Zin Ye Maung\\AppData\\Local\\Temp\\ic5gbbw4..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-20T17:31:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Splash.cs [Design]",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Splash.cs",
               "RelativeDocumentMoniker": "ATM_MS\\Splash.cs",
@@ -204,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Splash.cs",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Splash.cs",
               "RelativeDocumentMoniker": "ATM_MS\\Splash.cs",
@@ -216,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Program.cs",
               "RelativeDocumentMoniker": "ATM_MS\\Program.cs",
@@ -228,18 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Balance.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Balance.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\Balance.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T14:56:39.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "MiniStatement.cs [Design]",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\MiniStatement.cs",
               "RelativeDocumentMoniker": "ATM_MS\\MiniStatement.cs",
@@ -250,53 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ChangePin.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\ChangePin.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\ChangePin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T03:25:48.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Account.cs [Design]",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Account.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs [Design]",
-              "RelativeToolTip": "ATM_MS\\Account.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:38:21.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Deposit.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Deposit.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Deposit.cs",
-              "RelativeToolTip": "ATM_MS\\Deposit.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAnwGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:11:42.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FastCash.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\FastCash.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\FastCash.cs",
-              "RelativeToolTip": "ATM_MS\\FastCash.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAewCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T10:43:56.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MiniStatement.cs",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\MiniStatement.cs",
               "RelativeDocumentMoniker": "ATM_MS\\MiniStatement.cs",
@@ -308,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "MiniStatement.Designer.cs",
               "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\MiniStatement.Designer.cs",
               "RelativeDocumentMoniker": "ATM_MS\\MiniStatement.Designer.cs",
@@ -320,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ovlcddd5..sql",
               "DocumentMoniker": "C:\\Users\\Paing Zin Ye Maung\\AppData\\Local\\Temp\\ovlcddd5..sql",
               "ToolTip": "C:\\Users\\Paing Zin Ye Maung\\AppData\\Local\\Temp\\ovlcddd5..sql",
@@ -329,69 +400,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "dbo.TransactionTbl.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.TransactionTbl.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.TransactionTbl.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-08-16T02:43:20.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Withdraw.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Withdraw.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Withdraw.cs",
-              "RelativeToolTip": "ATM_MS\\Withdraw.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwC8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:08:51.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Account.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Account.cs",
-              "RelativeToolTip": "ATM_MS\\Account.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:38:23.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Balance.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\Balance.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\Balance.cs",
-              "RelativeToolTip": "ATM_MS\\Balance.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwB4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T14:59:11.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ChangePin.cs",
-              "DocumentMoniker": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
-              "RelativeDocumentMoniker": "ATM_MS\\ChangePin.cs",
-              "ToolTip": "D:\\C# Projects\\ATM_MS\\ATM_MS\\ChangePin.cs",
-              "RelativeToolTip": "ATM_MS\\ChangePin.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T03:26:06.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "dbo.AccountTbl.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.AccountTbl.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__C__PROJECTS_AMT_DB.MDF/True/SqlTable/dbo.AccountTbl.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-14T16:27:40.371Z"
             }
           ]
         }

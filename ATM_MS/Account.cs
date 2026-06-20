@@ -18,7 +18,7 @@ namespace ATM_MS
         {
             InitializeComponent();
         }
-        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
+        SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\C# Projects\ATM_MS\AMT_DB.mdf"";Integrated Security=True;Connect Timeout=30");
         private void bnfTbSignUp_Click_1(object sender, EventArgs e)
         {
             int bal = 0;
@@ -67,6 +67,11 @@ namespace ATM_MS
             Login login = new Login();
             login.Show();
             this.Hide();
+        }
+
+        private void Account_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
